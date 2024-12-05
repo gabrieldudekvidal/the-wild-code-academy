@@ -1,0 +1,35 @@
+body {
+    background-color: #16141d !important;
+    color: #fff !important;
+}
+
+.logo {
+    width: 400px;
+}
+
+a {
+    text-decoration: none !important;
+    color: #047800 !important;
+}
+
+nav {
+    padding: 50px 100px;
+}
+
+.btn-primary {
+    background-color: #383346 !important;
+}
+
+h4 {
+    margin-top: 40px !important;
+}
+
+
+label {
+    margin: 20px 0 10px 0;
+}
+
+.content-con {
+    background-color: #383346;
+    border-radius: 30px;
+}
