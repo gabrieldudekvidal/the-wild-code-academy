@@ -14,7 +14,7 @@ app.use(express.static("public"));
 
 
 app.get("/", (req, res) => {
-  res.render("login.ejs");
+  res.render("home.ejs");
 });
 
 app.get("/html_css_js", (req, res) => {

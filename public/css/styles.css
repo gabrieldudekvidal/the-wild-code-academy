@@ -1,15 +1,15 @@
 body {
-    background-color: #16141d !important;
+    background-color: #0b0b0b !important;
     color: #fff !important;
 }
 
 .logo {
-    width: 400px;
+    width: 100px;
 }
 
 a {
     text-decoration: none !important;
-    color: #047800 !important;
+    color: #780000 !important;
 }
 
 nav {
@@ -17,7 +17,7 @@ nav {
 }
 
 .btn-primary {
-    background-color: #383346 !important;
+    background-color: #151515 !important;
 }
 
 h4 {
@@ -30,6 +30,6 @@ label {
 }
 
 .content-con {
-    background-color: #383346;
+    background-color: #151515;
     border-radius: 30px;
 }
